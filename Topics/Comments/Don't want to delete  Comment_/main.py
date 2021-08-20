@@ -1,3 +1,1 @@
-print(1 + 2 + 3 + 6)
-print(1 + 3 + 3)
-print(1 + 2 + 3)
+word = word.replace("\u0301", "")  # delete stress symbols from the word
